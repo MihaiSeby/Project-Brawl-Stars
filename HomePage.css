@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: url(assets/WhatsApp\ Video\ 2024-06-14\ at\ 20.02.11_4e87693b.mp4);
+    height: 65vh;
+    width: auto;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
